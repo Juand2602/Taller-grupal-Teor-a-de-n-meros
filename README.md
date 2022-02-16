@@ -1,1 +1,1 @@
-# Taller grupal Teoria de numeros
+# Solucion taller grupal Teoria de numeros
